@@ -113,8 +113,3 @@
   </a>
 </p>
 
-<p align="left">
-  <a href="https://github.com/HaifaAljundi">
-    <img src="https://github-profile-trophy.vercel.app/?username=HaifaAljundi&theme=tokyonight&no-frame=true&column=7&margin-w=15" alt="GitHub Trophies" />
-  </a>
-</p>
