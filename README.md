@@ -95,7 +95,7 @@
 ### 🌐 Connect with me
 
 <p align="left">
-  <a href="https://github.com/HaifaAljundi" target="_blank" rel="noreferrer">
+  <a href="https://github.com/haifa-jundi" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/haifa-aljundi" target="_blank" rel="noreferrer">
