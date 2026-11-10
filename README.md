@@ -12,7 +12,7 @@
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=HaifaAljundi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=haifa-jundi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
@@ -109,7 +109,7 @@
 
 <p align="left">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=HaifaAljundi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=haifa-jundi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
